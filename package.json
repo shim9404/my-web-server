@@ -6,20 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/shim9404/my-web-server.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/shim9404/my-web-server/issues"
-  },
-    "homepage": "https://github.com/shim9404/my-web-server#readme",
-    "dependencies": {
+  "dependencies": {
     "express": "^5.1.0"
   }
-
 }
